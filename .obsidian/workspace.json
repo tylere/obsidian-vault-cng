@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "da65703c5a590249",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c15d8251052fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebde915c6481979b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f6e7abcaa696175",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a597349d647bf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcabfbfb637ef030",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f46a8a2f4c3ec357",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6688103aee4fe655",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e014d0ffc615edab",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceda655616524427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95d9116153a46ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0a2df135ef63b05b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7883f2195c7361f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f3fa812e4b96865",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "60681e3cef66de42",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ebde915c6481979b",
+  "lastOpenFiles": [
+    "Schmidt Futures.md",
+    "Zarr.md",
+    "Kerchunk.md",
+    "gpq.md",
+    "Planet Labs.md",
+    "Parquet.md",
+    "PMTiles.md",
+    "HTTP Range Requests.md",
+    "GeoArrow.md",
+    "Apache Arrow.md",
+    "FlatGeoBuf.md",
+    "Simple Features.md",
+    "geographic features.md",
+    "Source Cooperative.md",
+    "GeoParquet.md",
+    "STAC Specification.md",
+    "Azure Blob Storage.md",
+    "Google Cloud Storage.md",
+    "Amazon S3.md",
+    "NumFocus.md",
+    "Cloud-Optimized Geospatial Formats Guide.md",
+    "Zarr Visualization Report.md",
+    "Cloud-Native Geospatial Forum.md",
+    "Radiant Earth.md",
+    "Clay.md",
+    "The Grantham Foundation.md"
+  ]
+}
