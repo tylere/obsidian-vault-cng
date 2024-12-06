@@ -8,7 +8,7 @@ Tools
 
 Libraries
 - [[GeoArrow]]
-- [[OGR]]
+- [[GDAL-OGR]]
 - [[gpq]]
 - [[Fiona]]
 - 

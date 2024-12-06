@@ -1,4 +1,4 @@
-#guide
+#guide #cloud #Cloud-Optimized 
 
 Technologies
 - [[Zarr]]

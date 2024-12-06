@@ -3,8 +3,8 @@
 https://docs.protomaps.com/pmtiles/
 
 Languages
-- [[JavaScript]]
-- [[Python]]
+- #JavaScript
+- #Python
 
 Misc
 - PMTiles readers use [[HTTP Range Requests]]

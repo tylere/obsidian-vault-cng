@@ -14,4 +14,3 @@ Formats
 - [[GeoParquet]]
 - [[FlatGeoBuf]]
 - [[PMTiles]]
-- 
