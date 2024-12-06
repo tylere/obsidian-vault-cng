@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MIT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +69,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e014d0ffc615edab",
@@ -162,39 +164,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "ebde915c6481979b",
   "lastOpenFiles": [
-    "Software/GDAL-OGR.md",
-    "Concepts/License.md",
-    "Software/rasterio.md",
-    "Specification/COG.md",
-    "Organization/Pangeo Community.md",
     "Organization/ESIP.md",
+    "Specification/GeoArrow.md",
+    "Software/Apache Arrow.md",
     "License/MIT.md",
-    "License",
-    "Software/lonboard.md",
-    "Software/PROJ.md",
-    "Specification/Project Jupyter.md",
-    "Software/Jupyter Notebook.md",
     "Software/JupyterLab.md",
-    "Service/Microsoft Planetary Computer.md",
-    "Software/NumPy.md",
-    "Software/Xarray.md",
-    "Specification/Cloud-Optimized Geospatial Formats Guide.md",
-    "Service/Azure Blob Storage.md",
-    "Service/Amazon S3.md",
-    "Service/Source Cooperative.md",
-    "Untitled.canvas",
-    "Specification/GeoTIFF.md",
     "Software/GRASS GIS.md",
-    "Software/rio-cogeo.md",
-    "Service/Google Earth Engine.md",
-    "Software/rio-tiler.md",
-    "Software/Cogger.md",
+    "Organization/Cloud-Native Geospatial Forum.md",
+    "Software/QGIS.md",
     "Concepts/geographic features.md",
+    "Concepts/Simple Features.md",
+    "Organization/Clay.md",
+    "Organization/Pangeo Community.md",
+    "Software/GeoPandas.md",
+    "Service/Google Cloud Storage.md",
+    "Concepts/HTTP Range Requests.md",
+    "Service/Microsoft Planetary Computer.md",
+    "Software/rio-cogeo.md",
+    "Software/gpq.md",
+    "Concepts/CLI.md",
+    "Software/PROJ.md",
+    "Software/NumPy.md",
+    "Software/rio-tiler.md",
+    "Organization/Schmidt Futures.md",
+    "Software/Pandas.md",
+    "Software/Parquet.md",
+    "Specification/Project Jupyter.md",
+    "License",
+    "Untitled.canvas",
     "Guides",
     "Concepts",
     "Specification",

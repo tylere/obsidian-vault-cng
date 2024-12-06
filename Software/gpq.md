@@ -1,4 +1,6 @@
-> A #utility for working with [[GeoParquet]]
+> A utility for working with [[GeoParquet]]
+
+#library 
 
 planetlabs.github.io/gpq
 https://github.com/planetlabs/gpq

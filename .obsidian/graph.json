@@ -1,23 +1,72 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#cloud  ",
+      "query": "tag:#format",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "tag:#library  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#organization  ",
+      "color": {
+        "a": 1,
+        "rgb": 1966335
+      }
+    },
+    {
+      "query": "tag:#term  ",
+      "color": {
+        "a": 1,
+        "rgb": 11578221
+      }
+    },
+    {
+      "query": "tag:#service  ",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#community",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#software",
+      "color": {
+        "a": 1,
+        "rgb": 16763080
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.6,
+  "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.85894368489583,
   "lineSizeMultiplier": 2.46187337239583,
   "collapse-forces": false,
@@ -25,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.728017966079813,
-  "close": true
+  "scale": 0.44108511132396583,
+  "close": false
 }
