@@ -1,7 +1,9 @@
+---
+type: software
+Main URL: https://pandas.pydata.org/
+Source Code URL: https://github.com/pandas-dev/pandas
+geospatial?: false
+---
 > Open source #python data analysis and manipulation tool
 
-#library
-
-https://pandas.pydata.org/
-
-- [[NumFocus]] project
+- A [[NumFocus]] sponsored project

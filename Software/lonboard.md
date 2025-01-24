@@ -1,4 +1,5 @@
 ---
+type: software
 Main URL: https://developmentseed.org/lonboard
 GitHub URL: https://github.com/developmentseed/lonboard
 License: "[[License/MIT]]"

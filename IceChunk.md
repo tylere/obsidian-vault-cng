@@ -1,6 +1,11 @@
-> "Icechunk is an open-source (Apache 2.0), transactional storage engine for tensor / ND-array data designed for use on cloud object storage."
+---
+type: software
+Main URL: https://icechunk.io/
+GitHub URL: https://github.com/earth-mover/icechunk
+License: "[[License/Apache-2_0]]"
+---
+> Icechunk is Open-source, cloud-native transactional tensor storage engine
 
 #Python
 - Works with [[Zarr]]
 
-https://icechunk.io/

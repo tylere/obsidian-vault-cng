@@ -5,6 +5,7 @@
     "tags": "tags",
     "geospatial?": "checkbox",
     "cloud-native?": "checkbox",
-    "type": "text"
+    "type": "text",
+    "languages": "multitext"
   }
 }

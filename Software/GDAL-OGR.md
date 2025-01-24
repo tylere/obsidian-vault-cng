@@ -1,4 +1,5 @@
 ---
+type: software
 Main URL: https://gdal.org/
 GitHub URL: https://github.com/OSGeo/gdal
 License: "[[License/MIT]]"
