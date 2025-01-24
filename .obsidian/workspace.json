@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Xarray.md",
+                "file": "Specification/Parquet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xarray"
+              "title": "Parquet"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "opendatacube",
+                "query": "parquet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,32 +173,32 @@
   },
   "active": "ebde915c6481979b",
   "lastOpenFiles": [
+    "Specification/GeoParquet.md",
+    "Specification/Cloud-Optimized Geospatial Formats Guide.md",
+    "IceChunk.md",
+    "Specification/Zarr.md",
     "Software/shapely.md",
+    "AnyWidget.md",
+    "Specification/GeoTIFF.md",
+    "Specification/TIFF.md",
+    "Software/Xarray.md",
     "Software/rio-tiler.md",
     "Software/rio-cogeo.md",
     "Software/rasterio.md",
     "Software/rasteret.md",
-    "Software/Xarray.md",
-    "Specification/Zarr.md",
-    "Specification/TIFF.md",
     "Specification/STAC Specification.md",
     "Specification/Project Jupyter.md",
     "Specification/NetCDF.md",
     "Specification/HDF5.md",
     "Specification/GRIB.md",
     "Specification/GeoZarr.md",
-    "Specification/GeoTIFF.md",
-    "Specification/GeoParquet.md",
     "Specification/GeoArrow.md",
     "Specification/FlatGeoBuf.md",
     "Specification/COG.md",
-    "Specification/Cloud-Optimized Geospatial Formats Guide.md",
     "Software/GDAL-OGR.md",
     "Organization/Planet Labs.md",
     "Organization/Pangeo Community.md",
     "Organization/ESIP.md",
-    "Organization/Cloud-Native Geospatial Forum.md",
-    "Organization/Clay.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "License",
