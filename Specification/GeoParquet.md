@@ -1,8 +1,12 @@
+---
+type: specification
+cloud-native?: true
+geospatial?: true
+Main URL: https://geoparquet.org/
+---
 > Geospatial data in [[Parquet]]
 
 #format for #vector data
-
-https://geoparquet.org/
 
 Tools
 - [[GeoPandas]]

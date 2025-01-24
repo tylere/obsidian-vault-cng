@@ -1,7 +1,10 @@
+---
+type: software
+Main URL: https://docs.xarray.dev/
+GitHub URL: https://github.com/pydata/xarray
+License: "[[License/Apache-2_0]]"
+---
 > N-D labeled arrays and datasets in #Python #library 
-
-https://docs.xarray.dev/
-GitHub: https://github.com/pydata/xarray #license/Apache-2_0 
 
 Depends on:
 - [[NumPy]]

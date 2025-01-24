@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#format",
+      "query": "tag:#geo",
       "color": {
         "a": 1,
         "rgb": 65280
@@ -43,24 +43,10 @@
       }
     },
     {
-      "query": "tag:#project",
-      "color": {
-        "a": 1,
-        "rgb": 16776960
-      }
-    },
-    {
       "query": "tag:#community",
       "color": {
         "a": 1,
         "rgb": 16776960
-      }
-    },
-    {
-      "query": "tag:#software",
-      "color": {
-        "a": 1,
-        "rgb": 16763080
       }
     }
   ],
@@ -74,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.44108511132396583,
-  "close": false
+  "scale": 0.38720104364686064,
+  "close": true
 }

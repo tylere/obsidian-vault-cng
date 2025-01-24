@@ -1,6 +1,10 @@
+---
+type: specification
+Main URL: https://cogeo.org/
+cloud-native?: true
+geospatial?: true
+---
 > #Cloud-Optimized [[GeoTIFF]] #format
-
-https://cogeo.org/
 
 Tools/libraries supporting COGs:
 - [[QGIS]]
