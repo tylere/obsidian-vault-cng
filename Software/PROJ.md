@@ -1,5 +1,5 @@
 ---
-type: service
+type: software
 Main URL: https://proj.org/
 GitHub URL: https://github.com/OSGeo/PROJ
 License: "[[License/MIT]]"
