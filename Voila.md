@@ -2,5 +2,4 @@
 
 https://voila.readthedocs.io/
 
-Works with:
-- [[pyCafe]]
+- Gallery: https://voila-gallery.org/

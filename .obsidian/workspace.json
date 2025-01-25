@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/CLI.md",
+                "file": "Jupyter Widgets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLI"
+              "title": "Jupyter Widgets"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pmtiles",
+                "query": "ipywidg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jupyter Widgets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Jupyter Widgets"
             }
           },
           {
@@ -171,13 +172,27 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "ebde915c6481979b",
+  "active": "60681e3cef66de42",
   "lastOpenFiles": [
+    "IPyWidgets.md",
+    "Jupyter Widgets.md",
+    "Specification/Jupyter.md",
+    "ipyleaflet.md",
+    "Jupyter.md",
+    "Voila.md",
+    "pyCafe.md",
+    "Overture Maps Foundation.md",
+    "Organization/Pangeo Community.md",
+    "License/MIT.md",
+    "rioxarray.md",
+    "AnyWidget.md",
+    "Software/rasteret.md",
+    "License/BSD-3-Clause.md",
+    "Concepts/CLI.md",
     "Software/PMTiles.md",
     "Concepts/HTTP Range Requests.md",
     "Joint Development Foundation Project.md",
     "Linus Foundation.md",
-    "Overture Maps Foundation.md",
     "Linux Foundation.md",
     "Organization/Radiant Earth.md",
     "Organization/Planet Labs.md",
@@ -185,20 +200,6 @@
     "GeoJupyter.md",
     "JupyterGIS.md",
     "Software/lonboard.md",
-    "Software/Apache Arrow.md",
-    "Apache Software Foundation.md",
-    "Software/PROJ.md",
-    "Service/Google Earth Engine.md",
-    "Software/GDAL-OGR.md",
-    "Software/pyogrio.md",
-    "Software/Cogger.md",
-    "Software/matploltlib.md",
-    "Software/Pandas.md",
-    "Software/GeoPandas.md",
-    "Software/NumPy.md",
-    "License/BSD-3-Clause.md",
-    "Organization/NumFocus.md",
-    "Icechunk.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "License",
