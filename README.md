@@ -5,11 +5,7 @@ The purpose of this repository is to describe the relationships between various 
  
 Obsidian is used to define relationships (with internal links, tags, and properties) and to visualize the relationships through interactive graphs. 
 
-![](obsidian-cng-screencast.gif)
-
-
-
-
+https://github.com/user-attachments/assets/51cf79de-fd2a-4b16-8d4d-5d7ecbf19c12
 
 ```mermaid
 flowchart TD
