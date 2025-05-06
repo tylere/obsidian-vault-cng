@@ -1,4 +1,4 @@
-The purpose of this repository is to describe the relationships between various entities in the cloud-native geospatial, including:
+The purpose of this repository is to describe the relationships between various entities in the cloud-native geospatial ecosystem, including:
 - software tools, libraries, and services
 - data formats
 - organizations
